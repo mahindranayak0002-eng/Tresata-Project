@@ -1,0 +1,9 @@
+pandas
+numpy
+regex
+python-dateutil
+fastapi
+uvicorn
+pydantic
+fuzzywuzzy
+python-Levenshtein
